@@ -169,3 +169,5 @@ sys.fflag.override.settings_seamless_transfer=true
 
 # DroidX
 ro.droidx.maintainer=Nalinish
+ro.droidx.chipset=Snapdragon 625
+ro.droidx.display_resolution=5.5" IPS LCD 1080x1920
