@@ -17,6 +17,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/droidx_mido.mk
 
 COMMON_LUNCH_CHOICES := \
-    droidx_mido-user \
-    droidx_mido-userdebug \
-    droidx_mido-eng
+    droidx_mido-ap1a-user \
+    droidx_mido-ap1a-userdebug \
+    droidx_mido-ap1a-eng
